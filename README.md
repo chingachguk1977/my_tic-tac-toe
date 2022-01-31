@@ -8,7 +8,7 @@ The repository contains the Guess a Number game.
 The computer generates a sequence of random numbers and tries to guess a number within this sequence. The goal is to do it with the minimal number of tries. Right now it implements the binary search algorithm. 
 
 
-* [Проект 1. Игра: Tic-Tac-Toe] https://github.com/chingachguk1977/my_tic-tac-toe/tree/main/Tic-Tac-Toe
+* [Проект 1. Игра: Tic-Tac-Toe] https://github.com/chingachguk1977/my_tic-tac-toe/
 
 Роман Быков (SF, FPW-58)
 
